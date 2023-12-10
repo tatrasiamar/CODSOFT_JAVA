@@ -67,7 +67,7 @@ class ATM {
 
             case 4:
                 System.out.println("Exit. Thank you");
-                System.exit(0); // Exit the program
+                System.exit(0); 
                 break;
 
             default:
